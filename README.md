@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Banking System
 
 A comprehensive C# WPF banking application with a graphical user interface.
@@ -40,3 +41,7 @@ dotnet run
 ## License
 
 Educational project for FCPL course.
+=======
+# Banking-app
+FCPL project
+>>>>>>> b9f0313b09668c0bc802d35321e2bbf847ecd3ae
